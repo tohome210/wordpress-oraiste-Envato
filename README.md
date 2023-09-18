@@ -1,2 +1,2 @@
-# wordpress-oraiste-Envato
-wordpress theme modification(oraiste-Enavto)
+# wordpress-oraiste-Envato-
+wordprees oraiste theme form Envato modification 
